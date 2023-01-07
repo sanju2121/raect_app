@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "text": "learn english",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "text": "learn math",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "text": "learn hindi",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "text": "learn sanskrit",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "text": "learn history",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "text": "learn civics",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "text": "learn geography",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "text": "learn chemistry",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "text": "learn physics",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "text": "learn biology",
+      "completed": false,
+      "id": 10
+    }
+  ]
+}
